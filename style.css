@@ -66,13 +66,12 @@ p:nth-child(2) {
 }
 
 nav {
-  color: black;
   font-size: 35px;
 }
 
 li {
   display: inline;
-  margin: 45px;
+  margin: 45px; 
 }
 
 a:link, a:visited {
